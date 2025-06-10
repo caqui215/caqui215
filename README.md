@@ -22,3 +22,4 @@ Bienvenido al repositorio oficial del sistema web del **Centro Veterinario Canin
 - **Servidor:** XAMPP / Apache
 
 ## 📁 Estructura del proyecto
+
